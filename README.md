@@ -9,7 +9,7 @@ Technical -
 
 Product Management -
 1. Introduction to User Experience
-1. Becoming a Product Manager
+1. [Becoming a Product Manager](https://github.com/Aayushi-UCLA/Certifications/blob/master/Become%20a%20Product%20Manager_Udemy.pdf)
 
 Finance -
 1. CFA Level 1
